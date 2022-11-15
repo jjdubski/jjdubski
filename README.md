@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jjdubski
-- 👀 I’m interested in Software Development and Artificial Intelligence
+- 👀 I’m interested in Software Development. Game Design and Artificial Intelligence
 - 🌱 I’m currently learning Flutter, Python and Javascript
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me is by email @ jjwaksmanski@gmail.com
