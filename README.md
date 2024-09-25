@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Jake and I'm a student and aspiring developer. Currently studying Computer Science and working on some side projects. In and out of the classroom, I'm always learning and love it! My interests include software and web development, game design, and artificial intelligence. I'm from Chicago and my favorite languages are Python, Java and HTML. Currently I'm learning Flutter, Scala and Typescript. <br><br>TLDR:<br>- 👋 Hi, I’m Jake<br>- 👀 I’m interested in Software Development, Web Design and Artificial Intelligence<br>- 💞️ I’m looking to collaborate on anything and meet new people!<br>- 🌱 I’m currently learning Flutter, Scala and Typescript<br>- 📫 Reach me by email at jjwaksmanski@gmail.com or the Gmail link below</h2>
+<h2 align="left">Hi! My name is Jake and I'm a student and aspiring developer. Currently studying Computer Science and working on some side projects. In and out of the classroom, I'm always learning and love it! My interests include software and web development, game design, and artificial intelligence. I'm from Chicago and my favorite languages are Python, Java and HTML. Currently I'm learning Flutter, Scala and Typescript. <br><br>TLDR:<br>- 👋 Hi, I’m Jake<br>- 👀 I’m interested in Software Development, Web Design and Artificial Intelligence<br>- 💞️ I’m looking to collaborate on anything and meet new people!<br>- 🌱 I’m currently learning Flutter, Scala and Typescript<br>- 📫 Reach me by email at jjwaksmanski@gmail.com or click the Gmail link below</h2>
 
 ###
 
@@ -17,6 +17,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
