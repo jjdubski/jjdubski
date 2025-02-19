@@ -39,10 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django" />
 </div>
 
-###
-
-<br clear="both">
-
 <div align=center>
   <img src="https://raw.githubusercontent.com/jjdubski/jjdubski/output/snake.svg" alt="Snake animation" />
 <div>
