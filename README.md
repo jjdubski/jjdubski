@@ -1,5 +1,5 @@
 <h2> About Me </h2>
-<h3 align="left">Hi! My name is Jake and I'm a Computer Science student and developer. In and out of the classroom, I'm always learning and working on side projects. My interests include software and web development, game design, and artificial intelligence. I'm from Chicago and my favorite languages are Python, Java and Typescript. Currently I'm learning Swift, Django and Typescript. <br><br>TLDR:<br>- 👋 Hi, I’m Jake<br>- 👀 I’m interested in Software Development, Web Design and Artificial Intelligence<br>-🌱 I’m currently learning Swift, Django and Typescript<br>- 📫 Reach me by email at jjwaksmanski@gmail.com or click the Gmail link below</h3>
+<h3 align="left">Hi! My name is Jake and I'm a software developer. I'm always learning and working on side projects. My interests include software and web development, game design, and artificial intelligence. I'm from Chicago and my favorite languages are Python, Java and Typescript. Currently I'm learning Swift, Django and Typescript. <br><br>TLDR:<br>- 👋 Hi, I’m Jake<br>- 👀 I’m interested in Software Development, Web Design and Artificial Intelligence<br>-🌱 I’m currently learning Swift, Django and Typescript<br>- 📫 Reach me by email at jjwaksmanski@gmail.com or click the Gmail link below</h3>
 
 <div align="left">
   <a href="mailto:jjwaksmanski@gmail.com" target="_blank">
