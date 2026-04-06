@@ -1,5 +1,5 @@
 <h2> About Me </h2>
-<h3 align="left">Hi! My name is Jake and I'm a software developer. I'm always learning and working on side projects. My interests include software and web development, game design, and artificial intelligence. I'm from Chicago and my favorite languages are Python, Java and Typescript. Currently I'm learning Swift, Django and Typescript. <br><br>TLDR:<br>- 👋 Hi, I’m Jake<br>- 👀 I’m interested in Software Development, Web Design and Artificial Intelligence<br>-🌱 I’m currently learning Swift, Django and Typescript<br>- 📫 Reach me by email at jjwaksmanski@gmail.com or click the Gmail link below</h3>
+<h3 align="left">Hi! My name is Jake and I'm a software developer. I'm always learning and working on side projects. My interests include software and web development, game design, and artificial intelligence. I'm from Chicago and my favorite languages are Python, Java and Typescript. Currently I'm learning Swift, Django and Typescript. <br><br>TLDR:<br>- 👋 Hi, I’m Jake<br>- 👀 I’m interested in Software Development, Web Design and Artificial Intelligence<br>-🌱 I’m currently learning Svelte & SvelteKit<br>- 📫 Reach me by email at jjwaksmanski@gmail.com or click the Gmail link below</h3>
 
 <div align="left">
   <a href="mailto:jjwaksmanski@gmail.com" target="_blank">
@@ -16,7 +16,7 @@
 
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=jjdubski&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jjdubski&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-beta-sage-78.vercel.app/api/top-langs?username=jjdubski&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 <div align="center">
@@ -37,6 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/svelte-original.svg" height="30" alt="svelte" />
 </div>
 
 <div align=center>
