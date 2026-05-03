@@ -18,13 +18,9 @@ Currently I'm learning Svelte, SvelteKit and React Native.
 - 📫 Reach me by email at jjwaksmanski@gmail.com or click the Gmail button below
 
 <p align="center">
-  <a href="mailto:jjwaksmanski@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
-  </a>
+  <a href="mailto:jjwaksmanski@gmail.com" style="text-decoration: none"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>
   &nbsp;&nbsp;&nbsp; 
-  <a href="https://www.linkedin.com/in/jacob-waksmanski/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&label=&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
+  <a href="https://www.linkedin.com/in/jacob-waksmanski/"><img src="https://img.shields.io/static/v1?message=LinkedIn&label=&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/></a>
 </p>
 
 <div align="center">
