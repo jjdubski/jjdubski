@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jjdubski&theme=dark&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" height="165px"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-beta-sage-78.vercel.app/api/top-langs?username=jjdubski&layout=compact&langs_count=5&theme=dracula&hide_border=true" height="165px"/>
+  ![Stats](./profile/stats.svg)
+  <!-- <img src="https://github-readme-stats-beta-sage-78.vercel.app/api/top-langs?username=jjdubski&layout=compact&langs_count=5&theme=dracula&hide_border=true" height="165px"/> -->
 </div>
 
 <h3 align="left">
