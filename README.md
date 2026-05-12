@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jjdubski&theme=dark&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" height="165px"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  ![Stats](./profile/stats.svg)
+  <img src="https://raw.githubusercontent.com/jjdubski/jjdubski/main/profile/stats.svg" alt="GitHub Stats" height="165px"/>
   <!-- <img src="https://github-readme-stats-beta-sage-78.vercel.app/api/top-langs?username=jjdubski&layout=compact&langs_count=5&theme=dracula&hide_border=true" height="165px"/> -->
 </div>
 
@@ -13,6 +13,7 @@ Currently I'm learning Svelte, SvelteKit and React Native.
 </h3>
 
 ### TLDR:
+
 - 👋 Hi, I’m Jake<br>
 - 👀 I’m interested in Software Development, Web Design and AI<br>
 - 🌱 I’m currently learning Svelte, SvelteKit and React Native<br>
