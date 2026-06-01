@@ -66,7 +66,7 @@ Currently I'm learning Svelte, SvelteKit and React Native.
   <img src="https://raw.githubusercontent.com/jjdubski/jjdubski/output/snake.svg" alt="Snake animation" />
   <br>
  &nbsp;&nbsp;&nbsp; 
-  <img src="https://github-profile-trophy.vercel.app?username=jjdubski&title=-Followers&theme=dark&column=4&margin-w=8&margin-h=8" style="width: 100%; height: 30vh; max-height: 150px; object-fit: contain; display: block;"/>
+  <img src="https://raw.githubusercontent.com/jjdubski/jjdubski/main/profile/trophy.svg" style="width: 100%; height: 30vh; max-height: 150px; object-fit: contain; display: block;"/>
 </div>
 <!---
 jjdubski/jjdubski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
