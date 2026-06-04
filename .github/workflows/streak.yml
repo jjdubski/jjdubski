@@ -5,7 +5,7 @@ on:
     - cron: "0 3 * * *" # Run every day at 3:00 AM
   push:
     paths:
-      - ".github/workflows/streak-stats.yml" # Run any time this file is modified
+      - ".github/workflows/streak.yml" # Run any time this file is modified
   workflow_dispatch: # Run manually from the Actions tab
 
 jobs:
@@ -16,6 +16,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetch full history so we can rebase on remote changes
 
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
@@ -30,4 +32,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/streak.svg
           git commit -m "Update streak stats" || exit 0
+          git pull --rebase
           git push
