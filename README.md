@@ -1,6 +1,7 @@
 <div align="center">
   <!-- <img src="https://streak-stats.demolab.com?user=jjdubski&theme=dark&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" height="165px"/> -->
-  <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/jjdubski/jjdubski/main/profile/top-langs.svg" alt="GitHub Stats" height="165px"/>
 </div>
 
