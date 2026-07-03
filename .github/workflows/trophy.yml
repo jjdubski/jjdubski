@@ -2,7 +2,10 @@ name: Update README trophy
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 3 * * *"
+  push:
+    paths:
+      - ".github/workflows/trophy.yml" # Run any time this file is modified
   workflow_dispatch:
 
 jobs:
@@ -18,14 +21,14 @@ jobs:
       - name: Generate trophy card
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          options: "username=${{ github.repository_owner }}&title=-Followers&theme=darkhub&column=4&margin-w=8&margin-h=8"
+          options: "username=${{ github.repository_owner }}&title=-Followers,-Organizations&theme=darkhub&column=4&margin-w=8&margin-h=8"
           path: profile/trophy.svg
           token: ${{ secrets.GH_PAT }}
 
       - name: Commit trophy card
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "jjdubski"
+          git config user.email "101855602+jjdubski@users.noreply.github.com"
           git add profile/trophy.svg
           git commit -m "Update trophy card" || exit 0
           git push

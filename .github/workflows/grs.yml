@@ -1,12 +1,11 @@
 name: Update README cards
 
 on:
-  pull_request:
-    branches: [main]
   push:
-    branches: [main]
+    paths:
+      - ".github/workflows/grs.yml" # Run any time this file is modified
   schedule:
-    - cron: "0 0 * * *" # Runs once daily at midnight
+    - cron: "0 3 * * *"
   workflow_dispatch:
 
 jobs:
@@ -37,8 +36,8 @@ jobs:
 
       - name: Commit cards
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "jjdubski"
+          git config user.email "101855602+jjdubski@users.noreply.github.com"
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
           git push
