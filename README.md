@@ -63,7 +63,7 @@ Currently I'm learning Svelte, SvelteKit and React Native.
 
 <br>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jjdubski/jjdubski/output/snake.svg" alt="Snake animation" />
+  <img src="./profile/snake.svg" alt="Snake animation" />
   <br>
  &nbsp;&nbsp;&nbsp; 
   <img src="https://raw.githubusercontent.com/jjdubski/jjdubski/main/profile/trophy.svg" style="width: 100%; height: 30vh; max-height: 150px; object-fit: contain; display: block;"/>

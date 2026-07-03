@@ -23,10 +23,11 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
 
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+      - name: push snake.svg to the profile directory
+        run: |
+          cp dist/snake.svg profile/snake.svg
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add profile/snake.svg
+          git commit -m "chore: update snake.svg"
+          git push
