@@ -28,8 +28,8 @@ jobs:
 
       - name: Commit streak stats
         run: |
-          git config user.name "jjdubski"
-          git config user.email "101855602+jjdubski@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/streak.svg
           git commit -m "Update streak stats" || exit 0
           git pull --rebase

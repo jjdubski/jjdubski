@@ -30,8 +30,8 @@ jobs:
       - name: push snake.svg to the profile directory
         run: |
           cp dist/snake.svg profile/snake.svg
-          git config user.name "jjdubski"
-          git config user.email "101855602+jjdubski@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/snake.svg
           git commit -m "chore: update snake.svg" || exit 0
           git pull --rebase
